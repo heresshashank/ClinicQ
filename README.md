@@ -57,13 +57,6 @@ ClinicQ is a web-based healthcare platform designed during a hackathon. It provi
 
 ---
 
-## 👨‍💻 Author
-
-**\[Your Name]** – Developer of ClinicQ
-
-* GitHub: [@your-username](https://github.com/your-username)
-
----
 
 ⚡ *ClinicQ aims to simplify healthcare through technology — making medical support accessible anytime, anywhere.*
 
